@@ -1,5 +1,7 @@
 # Latihan-Js
-repo ini dibuat untuk file latihan java script sumber: 
+repo ini dibuat untuk file latihan java script 
+
+sumber: 
 
 Basic JavaScript
 https://www.youtube.com/watch?v=RUTV_5m4VeI&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w
