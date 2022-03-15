@@ -1,5 +1,4 @@
 //hanya untuk menghilangkan yang pertama karena menggunakan query selector
-
 // var hapus = document.querySelector('.close');
 // hapus.addEventListener('click', () => {
 //     hapus.parentElement.style.display = 'none';
