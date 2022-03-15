@@ -65,3 +65,7 @@ body {
 .card:hover .close {
     color: red;
 }
+
+.container .card a {
+    text-decoration: none;
+}
