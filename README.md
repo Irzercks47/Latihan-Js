@@ -1,5 +1,5 @@
 # Latihan-Js
-repo ini dibuat untuk file latihan java script 
+repo ini dibuat untuk file latihan javascript 
 
 sumber: 
 
