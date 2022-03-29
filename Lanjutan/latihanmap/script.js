@@ -33,5 +33,3 @@ const jumVideo = document.querySelector('.jumlah-video')
 pDurasi.textContent = `${jam} jam ${menit} menit ${detik} detik`
 const jmlVid = videos.filter(video => video.textContent.includes('JAVASCRIPT LANJUTAN')).length
 jumVideo.textContent = `${jmlVid}`
-
-console.log(jsLanjut)
